@@ -1,6 +1,11 @@
 #include<stdio.h>
 
 int main() {
-    printf("\nhello, world!\n"):
-    return 0;
+// 간단한 hello world cnffur
+printf(format: "hello world!\n");
+
+/*
+여러줄의 주석을 넣을 수 있음
+*/
+return 0;
 }
